@@ -1,0 +1,175 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: ui-sans-serif,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI Variable Display",
+        "Segoe UI",
+        Helvetica,
+        "Apple Color Emoji",
+        Arial,
+        sans-serif,
+        "Segoe UI Emoji",
+}
+
+.section-text {
+    text-align: center;
+}
+
+.card {
+    width: 390px;
+    border-radius: 10px;
+    margin: 20px auto;
+    border: 1px solid lightgray;
+    overflow: hidden;
+}
+
+.card-padding {
+    padding: 25px;
+}
+
+.buisness-card-padding {
+    padding: 54px 20px 60px 25px;
+    background-color: #1DE592;
+}
+
+.buisness-heading {
+    width: 100px;
+    margin-bottom: 16px;
+}
+
+.buisness-text {
+    margin-bottom: 16px;
+    font-size: 14px;
+    font-weight: 700;
+
+}
+
+.buisness-btn {
+    border: none;
+    background-color: #fff;
+    color: #000;
+    padding: 16px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 50px;
+
+}
+
+.profile-text {
+    font-size: 16px;
+    color: gray;
+    margin-top: 10px;
+}
+
+.divider {
+    padding: 0px;
+    width: 100%;
+    border-top: 1px solid lightgrey;
+
+}
+
+.box-avatar {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.avatar {
+    height: 100px;
+    width: 100px;
+
+}
+
+.profile_image {
+    width: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    background-color: gray;
+}
+
+.spacing-left1 {
+    margin-left: 30px;
+}
+
+.spacing-left2 {
+    margin-left: 75px;
+}
+
+.profile-footer {
+    color: #3B85EB;
+}
+
+.subscribe-image {
+
+
+    width: 100%;
+
+}
+
+.subscribe-box {
+    display: flex;
+    align-items: center;
+
+}
+
+.subscribe-subtext {
+    text-transform: uppercase;
+    color: gray;
+    word-spacing: 3px;
+    margin-left: 16px;
+
+}
+
+.subscribe-text {
+    color: gray;
+    word-spacing: 2px;
+    margin-bottom: 0%;
+}
+
+.margin-bottom {
+    margin-bottom: 16px;
+}
+
+.subscribe-padding {
+    padding: 20px;
+}
+
+
+
+.subscribe-btn {
+    border: 1px solid lightgray;
+    background-color: #fff;
+    color: #000;
+    padding: 16px;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #3B85EB;
+    font-weight: bold;
+    margin-top: 16px;
+}
+
+.main {
+    width: 390px;
+    /* border: 1px solid black; */
+    margin: 20px auto;
+    text-align: center;
+    padding: 16px;
+}
+
+.input {
+    width: 100%;
+    padding: 14px;
+    margin-bottom: 16px;
+    border-radius: 6px;
+    border: 1px solid lightgray;
+}
+
+.main-btn {
+    border: none;
+    background-color: #000;
+    color: #fff;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 34px;
+}
